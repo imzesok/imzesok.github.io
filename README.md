@@ -2,7 +2,7 @@ Do you really need a README.md for a website?
 
 No, not if you can read the "About" heading to the right of the repo-list. 
 
-Github doesn't like it when you don't have one though.
+Github doesn't like it when you don't have one though, so here it is so it can stop bugging me.
 
 Honestly, it's a crap half-baked skeleton of a website using very basic HTML, that I picked up back in highschool.
 
